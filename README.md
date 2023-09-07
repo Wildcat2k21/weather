@@ -14,4 +14,4 @@
 
 * [Статьи по разработке расширений для браузеров](https://developer.mozilla.org/ru/docs/Mozilla/Add-ons/WebExtensions/Your_first_WebExtension)
 
-* Репозиторий GitHub с примерами расширений из статьи MDN по разработке расширений
+* [Репозиторий GitHub с примерами расширений из статьи MDN по разработке расширений](https://github.com/mdn/webextensions-examples/tree/main)

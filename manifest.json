@@ -1,0 +1,29 @@
+{
+  "description": "Показывает погоду в том городе, который вы выберете",
+  "manifest_version": 2,
+  "name": "weather",
+  "version": "1.0",
+  "homepage_url": "https://github.com/mdn/webextensions-examples/tree/master",
+  "icons": {
+    "48": "icons/weather-256.png"
+  },
+  "permissions": [
+    "activeTab"
+  ],
+
+  "applications": {
+    "gecko": {
+      "id": "Weather.Wildcat2k21@gmail.com",
+      "strict_min_version": "45.0"
+    }
+  },
+
+  "browser_action": {
+    "default_title": "weather",
+    "default_popup": "popup.html"
+  },
+
+  "web_accessible_resources": [
+    "weather/*.png"
+  ]
+}
